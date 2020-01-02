@@ -2,7 +2,7 @@
 An exam project with a given grade. The grade is given in combination of the MachineLearningExam2019 project and OptimizationExam2019 project.
 
 ## Pupose of the project
-The purpose of this project is an exam in the topic machine learning. 
+The purpose of this project is an exam in the topic machine learning. The description of the project is in the "MachineLearning_Exam.pdf"
 
 ## My work
 Some code is handed out by my teacher and some is made by myself.
